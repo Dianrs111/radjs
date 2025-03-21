@@ -1,5 +1,5 @@
 {
-  "name": "radjs",
+  "name": "ReactAdmin",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,6 +15,7 @@
     "lucide-react": "^0.483.0",
     "radjs": "file:",
     "react": "^19.0.0",
+    "React": "file:",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.3.0",
     "recharts": "^2.15.1",
